@@ -1,2 +1,2 @@
 # Hack-Facebook
-usage command: perl Script.pl Email Or ID wordlist.txt
+usage command: perl Script.pl Email or ID wordlist.txt
